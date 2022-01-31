@@ -18,6 +18,7 @@ const Projects = () => (
             <Hr />
           </TitleContent>
           <CardInfo>{description}</CardInfo>
+          <br />
           <div>
             <TitleContent>Stack</TitleContent>
             <TagList>
