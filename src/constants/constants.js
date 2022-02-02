@@ -27,12 +27,12 @@ export const projects = [
     id: 2,
   },
   {
-    title: 'Unichat',
-    description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
+    title: 'Gericht Restaurant',
+    description: "This is a modern fully responsive fine dining restaurant website base on a figma design.",
     image: '/images/4.jpg',
-    tags: ['React', 'ChatEngine', 'Firebase'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    tags: ['React', 'Javascript'],
+    source: 'https://gericht.vercel.app/',
+    visit: 'https://github.com/zackscovitch01/gericht-restaurant',
     id: 3,
   },
 ];
